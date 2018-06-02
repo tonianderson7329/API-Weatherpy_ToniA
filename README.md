@@ -1,3 +1,12 @@
+### WeatherPy
+
+#### Analysis
+
+•	OBSERVED TREND 1: Cities that are above the Equator roughly 20+ degrees have a higher Temperature Max of about 60 to 80 degrees (F). There is also between 80-100% Humidity to cities that between -20 and 20 Latitude coordinates. These are possibly considered tropical regions of certain countries and/or islands
+
+•	OBSERVED TREND 2: Based on these observations I am noticing there is less Wind Speed towards the equator. In this zone the weather is humid and rainy, with wind flowing in with no prevailing direction. FUN FACT: It is called the equatorial doldrums.
+
+•	OBSERVED TREND 3: in the last Plot regarding Cloudiness, there is not much cloud cover near the equator based which is probably due to the small amount of wind and pressure produced. As you venture roughly 20-40 degrees you start to see clusters of cloud cover as the air and wind increases.
 
 
 ```python
